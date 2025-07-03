@@ -372,7 +372,7 @@ transform: translateX(26px);
 <li class="flex items-center text-gray-600"><i class="ri-checkbox-circle-line text-secondary mr-2"></i>Computer Science</li>
 </ul>
 <p class="text-gray-600 mb-4">3-year programs with hands-on practical training and industry exposure.</p>
-<a href="#contact" class="inline-block bg-primary text-white px-6 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Learn More</a>
+<a href="./diploma.php" class="inline-block bg-primary text-white px-6 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Learn More</a>
 </div>
 </div>
 <!-- B.Tech Programs -->
@@ -389,7 +389,7 @@ transform: translateX(26px);
 <li class="flex items-center text-gray-600"><i class="ri-checkbox-circle-line text-secondary mr-2"></i>Information Technology</li>
 </ul>
 <p class="text-gray-600 mb-4">4-year undergraduate programs with cutting-edge curriculum and research opportunities.</p>
-<a href="#contact" class="inline-block bg-primary text-white px-6 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Learn More</a>
+<a href="./btech.php" class="inline-block bg-primary text-white px-6 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Learn More</a>
 </div>
 </div>
 <!-- MBA/BBA Programs -->
@@ -406,7 +406,7 @@ transform: translateX(26px);
 <li class="flex items-center text-gray-600"><i class="ri-checkbox-circle-line text-secondary mr-2"></i>International Business</li>
 </ul>
 <p class="text-gray-600 mb-4">2-year postgraduate and 3-year undergraduate programs in business administration.</p>
-<a href="#contact" class="inline-block bg-primary text-white px-6 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Learn More</a>
+<a href="./bba-mba.php" class="inline-block bg-primary text-white px-6 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Learn More</a>
 </div>
 </div>
 <!-- BCA/MCA Programs -->
@@ -423,7 +423,7 @@ transform: translateX(26px);
 <li class="flex items-center text-gray-600"><i class="ri-checkbox-circle-line text-secondary mr-2"></i>Mobile Application Development</li>
 </ul>
 <p class="text-gray-600 mb-4">3-year undergraduate and 2-year postgraduate programs in computer applications.</p>
-<a href="#contact" class="inline-block bg-primary text-white px-6 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Learn More</a>
+<a href="./bca-mca.php" class="inline-block bg-primary text-white px-6 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Learn More</a>
 </div>
 </div>
 <!-- Nursing Programs -->
@@ -440,7 +440,7 @@ transform: translateX(26px);
 <li class="flex items-center text-gray-600"><i class="ri-checkbox-circle-line text-secondary mr-2"></i>Nursing Certification Courses</li>
 </ul>
 <p class="text-gray-600 mb-4">Comprehensive nursing education programs with clinical training and healthcare expertise.</p>
-<a href="#contact" class="inline-block bg-primary text-white px-6 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Learn More</a>
+<a href="./nursing.php" class="inline-block bg-primary text-white px-6 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Learn More</a>
 </div>
 </div>
 </div>
