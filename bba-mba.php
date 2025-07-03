@@ -312,7 +312,7 @@
             </button>
             <div class="faq-content bg-white px-4 pb-4 rounded-b-lg hidden">
               <p class="text-gray-600">
-               Definitely! Many institutes offer campus placements, and consultancies like TotalAdmission provide placement guidance and training to help you secure top jobs.
+               Definitely! Many institutes offer campus placements, and consultancies like R.S Admission provide placement guidance and training to help you secure top jobs.
 
 
               </p>

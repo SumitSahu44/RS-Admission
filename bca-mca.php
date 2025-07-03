@@ -314,7 +314,7 @@ The Bachelor of Computer Applications (BCA) is a three-year undergraduate progra
             </button>
             <div class="faq-content bg-white px-4 pb-4 rounded-b-lg hidden">
               <p class="text-gray-600">
-             Yes, many colleges and consultancies like TotalAdmission also assist with placement support after MCA, helping students secure jobs in reputed companies.
+             Yes, many colleges and consultancies like R.S Admission also assist with placement support after MCA, helping students secure jobs in reputed companies.
 
 
 

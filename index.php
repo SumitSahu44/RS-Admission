@@ -472,40 +472,7 @@ transform: translateX(26px);
 </div>
 </div>
 </div>
-<div class="mt-16 bg-primary rounded-lg overflow-hidden">
-<div class="flex flex-col md:flex-row items-center">
-<div class="md:w-2/3 p-8 md:p-12">
-<h3 class="text-2xl md:text-3xl font-semibold text-white mb-4">Ready to Start Your Academic Journey?</h3>
-<p class="text-white opacity-90 mb-8">Get in touch with our academic counselors to learn more about our programs and admission process.</p>
-<div class="flex flex-wrap gap-4">
-<a href="#contact" class="inline-block bg-white text-primary px-8 py-3 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Contact Us</a>
-<a href="#" class="inline-block border-2 border-white text-white px-8 py-3 rounded-button font-medium hover:bg-white hover:text-primary transition-colors whitespace-nowrap">Download Brochure</a>
-</div>
-</div>
-<div class="md:w-1/3 p-8 md:p-12 bg-primary-dark">
-<div class="space-y-6">
-<div class="flex items-center">
-<div class="w-12 h-12 bg-white bg-opacity-10 rounded-full flex items-center justify-center">
-<i class="ri-calendar-line text-white"></i>
-</div>
-<div class="ml-4">
-<h4 class="font-semibold text-white">Next Intake</h4>
-<p class="text-white opacity-80">July 2025</p>
-</div>
-</div>
-<div class="flex items-center">
-<div class="w-12 h-12 bg-white bg-opacity-10 rounded-full flex items-center justify-center">
-<i class="ri-time-line text-white"></i>
-</div>
-<div class="ml-4">
-<h4 class="font-semibold text-white">Application Deadline</h4>
-<p class="text-white opacity-80">May 31, 2025</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 </div>
 </section>
 <!-- Contact Section -->
@@ -535,15 +502,7 @@ transform: translateX(26px);
 </div>
 <div class="mb-6">
 <div class="relative">
-<select id="service" class="w-full px-4 py-3 border border-gray-300 rounded focus:outline-none focus:border-primary bg-white appearance-none pr-8">
-<option value="" disabled selected>Select Service</option>
-<option value="college-admission">College Admission Guidance</option>
-<option value="test-prep">Test Preparation</option>
-<option value="career-counseling">Career Counseling</option>
-<option value="essay-writing">Essay & SOP Writing</option>
-<option value="scholarship">Scholarship Assistance</option>
-<option value="visa-support">Visa & Travel Support</option>
-</select>
+
 <div class="absolute right-3 top-1/2 transform -translate-y-1/2 pointer-events-none">
 <i class="ri-arrow-down-s-line text-gray-500"></i>
 </div>
@@ -574,7 +533,8 @@ transform: translateX(26px);
 </div>
 <div class="ml-4">
 <h4 class="font-semibold text-gray-800">Our Office</h4>
-<p class="text-gray-600">1234 Education Avenue, Suite 500<br>New York, NY 10001, USA</p>
+<p class="text-gray-600">
+402, Siddheshwar Palace 10, Mill Rd,<br>Nawada, Ara, India 802301</p>
 </div>
 </div>
 <div class="flex items-start">
@@ -583,8 +543,8 @@ transform: translateX(26px);
 </div>
 <div class="ml-4">
 <h4 class="font-semibold text-gray-800">Phone</h4>
-<p class="text-gray-600">+1 (555) 123-4567</p>
-<p class="text-gray-600">+1 (555) 987-6543</p>
+<p class="text-gray-600">+91 6201879696</p>
+<!-- <p class="text-gray-600">+1 (555) 987-6543</p> -->
 </div>
 </div>
 <div class="flex items-start">
@@ -593,8 +553,8 @@ transform: translateX(26px);
 </div>
 <div class="ml-4">
 <h4 class="font-semibold text-gray-800">Email</h4>
-<p class="text-gray-600">info@Rsadmissionzone.com</p>
-<p class="text-gray-600">support@Rsadmissionzone.com</p>
+<p class="text-gray-600">rsadmissionzone@gmail.com</p>
+<!-- <p class="text-gray-600">support@Rsadmissionzone.com</p> -->
 </div>
 </div>
 <div class="flex items-start">
@@ -612,27 +572,21 @@ transform: translateX(26px);
 <div class="mt-8">
 <h4 class="font-semibold text-gray-800 mb-4">Connect With Us</h4>
 <div class="flex space-x-4">
-<a href="#" class="w-10 h-10 bg-primary bg-opacity-10 rounded-full flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
+<a href="https://www.facebook.com/share/1ZCJopT97E/" class="w-10 h-10 bg-primary bg-opacity-10 rounded-full flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
 <i class="ri-facebook-fill"></i>
 </a>
-<a href="#" class="w-10 h-10 bg-primary bg-opacity-10 rounded-full flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
-<i class="ri-twitter-fill"></i>
-</a>
-<a href="#" class="w-10 h-10 bg-primary bg-opacity-10 rounded-full flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
+
+<a href="https://www.instagram.com/rsadmissionzone?igsh=MXN3YjM3c2Y5NmZzag==" class="w-10 h-10 bg-primary bg-opacity-10 rounded-full flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
 <i class="ri-instagram-line"></i>
 </a>
-<a href="#" class="w-10 h-10 bg-primary bg-opacity-10 rounded-full flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
-<i class="ri-linkedin-fill"></i>
-</a>
-<a href="#" class="w-10 h-10 bg-primary bg-opacity-10 rounded-full flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
+
+<a href="https://youtube.com/@rsadmissionzone?si=STzxrHUnSXXKwWSJ" class="w-10 h-10 bg-primary bg-opacity-10 rounded-full flex items-center justify-center hover:bg-primary hover:text-white transition-colors">
 <i class="ri-youtube-fill"></i>
 </a>
 </div>
 </div>
 </div>
-<div class="bg-white rounded-lg shadow-sm overflow-hidden h-64">
-<div class="w-full h-full bg-cover bg-center" style="background-image: url('https://public.readdy.ai/gen_page/map_placeholder_1280x720.png');"></div>
-</div>
+
 </div>
 </div>
 </div>
