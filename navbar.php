@@ -19,13 +19,12 @@
 
     <!-- Desktop Links -->
     <div class="hidden md:flex items-center space-x-8">
-      <a href="#home" class="text-gray-700 hover:text-primary font-medium transition-colors">Home</a>
-      <a href="#about" class="text-gray-700 hover:text-primary font-medium transition-colors">About Us</a>
-      <a href="#services" class="text-gray-700 hover:text-primary font-medium transition-colors">Services</a>
-      <a href="#courses" class="text-gray-700 hover:text-primary font-medium transition-colors">Courses</a>
-      <a href="#why-us" class="text-gray-700 hover:text-primary font-medium transition-colors">Why Choose Us</a>
-      <a href="#testimonials" class="text-gray-700 hover:text-primary font-medium transition-colors">Testimonials</a>
-      <a href="#contact" class="bg-primary text-white px-5 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Contact Us</a>
+      <a href="./index.php#home" class="text-gray-700 hover:text-primary font-medium transition-colors">Home</a>
+      <a href="./index.php#about" class="text-gray-700 hover:text-primary font-medium transition-colors">About Us</a>
+      <a href="./index.php#services" class="text-gray-700 hover:text-primary font-medium transition-colors">Services</a>
+      <a href="./index.php#courses" class="text-gray-700 hover:text-primary font-medium transition-colors">Courses</a>
+      <a href="./index.php#why-us" class="text-gray-700 hover:text-primary font-medium transition-colors">Why Choose Us</a>
+      <a href="./index.php#contact" class="bg-primary text-white px-5 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Contact Us</a>
     </div>
 
     <!-- Mobile Menu Button -->
@@ -38,19 +37,20 @@
 <!-- Mobile Menu Slide-in -->
 <div id="mobile-menu" class="fixed inset-0 bg-white z-50 p-6 transform translate-x-full transition-transform duration-300 ease-in-out">
   <div class="flex justify-between items-center mb-8">
-    <a href="#" class="text-2xl font-['Pacifico'] text-primary">logo</a>
+    <a href="#" class="text-2xl font-['Pacifico'] w-12 text-primary">
+        <img src="./images/RS_admission.png" alt="" srcset="">
+    </a>
     <button id="close-menu" class="w-10 h-10 flex items-center justify-center text-gray-700">
       <i class="ri-close-line text-2xl"></i>
     </button>
   </div>
   <div class="flex flex-col space-y-4">
-    <a href="#home" class="text-gray-700 hover:text-primary font-medium py-2 border-b">Home</a>
-    <a href="#about" class="text-gray-700 hover:text-primary font-medium py-2 border-b">About Us</a>
-    <a href="#services" class="text-gray-700 hover:text-primary font-medium py-2 border-b">Services</a>
-    <a href="#courses" class="text-gray-700 hover:text-primary font-medium py-2 border-b">Courses</a>
-    <a href="#why-us" class="text-gray-700 hover:text-primary font-medium py-2 border-b">Why Choose Us</a>
-    <a href="#testimonials" class="text-gray-700 hover:text-primary font-medium py-2 border-b">Testimonials</a>
-    <a href="#contact" class="bg-primary text-white px-6 py-2 rounded-button text-center hover:bg-opacity-90 transition-colors mt-4">Contact Us</a>
+    <a href="./index.php#home" class="text-gray-700 hover:text-primary font-medium py-2 border-b">Home</a>
+    <a href="./index.php#about" class="text-gray-700 hover:text-primary font-medium py-2 border-b">About Us</a>
+    <a href="./index.php#services" class="text-gray-700 hover:text-primary font-medium py-2 border-b">Services</a>
+    <a href="./index.php#courses" class="text-gray-700 hover:text-primary font-medium py-2 border-b">Courses</a>
+    <a href="./index.php#why-us" class="text-gray-700 hover:text-primary font-medium py-2 border-b">Why Choose Us</a>
+    <a href="./index.php#contact" class="bg-primary text-white px-6 py-2 rounded-button text-center hover:bg-opacity-90 transition-colors mt-4">Contact Us</a>
   </div>
 </div>
 
