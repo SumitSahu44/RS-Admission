@@ -10,7 +10,7 @@
 <body class="bg-gray-100">
 
 <footer class="bg-gray-900 text-white pt-16 pb-8">
-  <div class="container mx-auto px-4">
+  <div class="container mx-auto px-10">
     <!-- Grid for Footer Content -->
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 mb-12">
       

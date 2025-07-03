@@ -135,35 +135,7 @@ transform: translateX(26px);
 </head>
 <body class="bg-white">
 <!-- Navigation -->
-<nav class="fixed top-0 left-0 right-0 bg-white shadow-sm z-50 transition-all duration-300">
-<div class="container mx-auto px-4 md:px-8 flex justify-between items-center h-16 md:h-20">
-<a href="#" class="text-primary text-2xl md:text-3xl font-['Pacifico']">logo</a>
-<div class="hidden md:flex items-center space-x-8">
-<a href="#home" class="text-gray-700 hover:text-primary font-medium transition-colors">Home</a>
-<a href="#about" class="text-gray-700 hover:text-primary font-medium transition-colors">About Us</a>
-<a href="#services" class="text-gray-700 hover:text-primary font-medium transition-colors">Services</a>
-<a href="#courses" class="text-gray-700 hover:text-primary font-medium transition-colors">Courses</a>
-<a href="#why-us" class="text-gray-700 hover:text-primary font-medium transition-colors">Why Choose Us</a>
-<a href="#testimonials" class="text-gray-700 hover:text-primary font-medium transition-colors">Testimonials</a>
-<a href="#contact" class="bg-primary text-white px-5 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Contact Us</a>
-</div>
-<button class="md:hidden w-10 h-10 flex items-center justify-center text-gray-700" id="mobile-menu-button">
-<i class="ri-menu-line ri-2x"></i>
-</button>
-</div>
-<!-- Mobile Menu -->
-<div class="md:hidden bg-white shadow-lg absolute w-full left-0 top-16 transform -translate-y-full opacity-0 transition-all duration-300" id="mobile-menu">
-<div class="container mx-auto px-4 py-4 flex flex-col space-y-4">
-<a href="#home" class="text-gray-700 hover:text-primary font-medium py-2 transition-colors">Home</a>
-<a href="#about" class="text-gray-700 hover:text-primary font-medium py-2 transition-colors">About Us</a>
-<a href="#services" class="text-gray-700 hover:text-primary font-medium py-2 transition-colors">Services</a>
-<a href="#courses" class="text-gray-700 hover:text-primary font-medium py-2 transition-colors">Courses</a>
-<a href="#why-us" class="text-gray-700 hover:text-primary font-medium py-2 transition-colors">Why Choose Us</a>
-<a href="#testimonials" class="text-gray-700 hover:text-primary font-medium py-2 transition-colors">Testimonials</a>
-<a href="#contact" class="bg-primary text-white px-5 py-2 rounded-button font-medium hover:bg-opacity-90 transition-colors inline-block whitespace-nowrap">Contact Us</a>
-</div>
-</div>
-</nav>
+<?php include 'navbar.php' ?>
 <!-- Hero Section -->
 <section id="home" class="pt-16 md:pt-20 hero-bg" style="background-image: url('https://readdy.ai/api/search-image?query=modern%20educational%20environment%20with%20soft%20gradient%20background%20on%20right%20side%20showing%20diverse%20students%20studying%20together%2C%20left%20side%20completely%20white%20for%20text%20overlay%2C%20professional%20photography%2C%20soft%20lighting%2C%20clean%20minimal%20style%2C%20perfect%20for%20website%20hero%20section&width=1920&height=1080&seq=hero1&orientation=landscape');">
 <div class="container mx-auto px-4 md:px-8 w-full">
@@ -592,74 +564,7 @@ transform: translateX(26px);
 </div>
 </section>
 <!-- Footer -->
-<footer class="bg-primary text-white pt-16 pb-8">
-<div class="container mx-auto px-4 md:px-8">
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
-<div>
-<a href="#" class="text-white text-2xl md:text-3xl font-['Pacifico'] mb-6 inline-block">logo</a>
-<p class="text-white opacity-80 mb-6">R.S Admission Zone is your trusted partner for navigating the complex world of academic admissions. We're dedicated to helping students achieve their educational dreams.</p>
-<div class="flex space-x-4">
-<a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity">
-<i class="ri-facebook-fill"></i>
-</a>
-<a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity">
-<i class="ri-twitter-fill"></i>
-</a>
-<a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity">
-<i class="ri-instagram-line"></i>
-</a>
-<a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity">
-<i class="ri-linkedin-fill"></i>
-</a>
-</div>
-</div>
-<div>
-<h4 class="text-xl font-semibold mb-6">Quick Links</h4>
-<ul class="space-y-3">
-<li><a href="#home" class="text-white opacity-80 hover:opacity-100 transition-opacity">Home</a></li>
-<li><a href="#about" class="text-white opacity-80 hover:opacity-100 transition-opacity">About Us</a></li>
-<li><a href="#services" class="text-white opacity-80 hover:opacity-100 transition-opacity">Our Services</a></li>
-<li><a href="#courses" class="text-white opacity-80 hover:opacity-100 transition-opacity">Courses</a></li>
-<li><a href="#why-us" class="text-white opacity-80 hover:opacity-100 transition-opacity">Why Choose Us</a></li>
-<li><a href="#testimonials" class="text-white opacity-80 hover:opacity-100 transition-opacity">Testimonials</a></li>
-<li><a href="#contact" class="text-white opacity-80 hover:opacity-100 transition-opacity">Contact Us</a></li>
-</ul>
-</div>
-<div>
-<h4 class="text-xl font-semibold mb-6">Our Services</h4>
-<ul class="space-y-3">
-<li><a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity">College Admission Guidance</a></li>
-<li><a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity">Test Preparation</a></li>
-<li><a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity">Career Counseling</a></li>
-<li><a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity">Essay & SOP Writing</a></li>
-<li><a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity">Scholarship Assistance</a></li>
-<li><a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity">Visa & Travel Support</a></li>
-</ul>
-</div>
-<div>
-<h4 class="text-xl font-semibold mb-6">Newsletter</h4>
-<p class="text-white opacity-80 mb-4">Subscribe to our newsletter for the latest updates and educational insights.</p>
-<form class="mb-4">
-<div class="flex">
-<input type="email" placeholder="Your email address" class="px-4 py-2 rounded-l-button w-full text-gray-800 border-none focus:outline-none">
-<button type="submit" class="bg-secondary text-primary px-4 py-2 rounded-r-button font-medium hover:bg-opacity-90 transition-colors whitespace-nowrap">Subscribe</button>
-</div>
-</form>
-<p class="text-white opacity-80 text-sm">By subscribing, you agree to our Privacy Policy and consent to receive updates from our company.</p>
-</div>
-</div>
-<div class="pt-8 border-t border-white border-opacity-20">
-<div class="flex flex-col md:flex-row justify-between items-center">
-<p class="text-white opacity-80 text-sm mb-4 md:mb-0">© 2025 R.S Admission Zone. All rights reserved.</p>
-<div class="flex space-x-6">
-<a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity text-sm">Privacy Policy</a>
-<a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity text-sm">Terms of Service</a>
-<a href="#" class="text-white opacity-80 hover:opacity-100 transition-opacity text-sm">Cookie Policy</a>
-</div>
-</div>
-</div>
-</div>
-</footer>
+<?php include 'footer.php' ?>
 <!-- Back to Top Button -->
 <button id="back-to-top" class="fixed bottom-6 right-6 w-12 h-12 bg-primary text-white rounded-full shadow-lg flex items-center justify-center opacity-0 invisible transition-all duration-300 hover:bg-opacity-90">
 <i class="ri-arrow-up-line ri-lg"></i>
@@ -678,53 +583,7 @@ transform: translateX(26px);
 </div>
 </div>
 <!-- Scripts -->
-<script id="navigation-script">
-document.addEventListener('DOMContentLoaded', function() {
-// Mobile menu toggle
-const mobileMenuButton = document.getElementById('mobile-menu-button');
-const mobileMenu = document.getElementById('mobile-menu');
-mobileMenuButton.addEventListener('click', function() {
-if (mobileMenu.classList.contains('opacity-0')) {
-mobileMenu.classList.remove('opacity-0', '-translate-y-full');
-mobileMenu.classList.add('opacity-100', 'translate-y-0');
-mobileMenuButton.innerHTML = '<i class="ri-close-line ri-2x"></i>';
-} else {
-mobileMenu.classList.remove('opacity-100', 'translate-y-0');
-mobileMenu.classList.add('opacity-0', '-translate-y-full');
-mobileMenuButton.innerHTML = '<i class="ri-menu-line ri-2x"></i>';
-}
-});
-// Smooth scrolling for anchor links
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-anchor.addEventListener('click', function(e) {
-e.preventDefault();
-// Close mobile menu if open
-if (mobileMenu.classList.contains('opacity-100')) {
-mobileMenu.classList.remove('opacity-100', 'translate-y-0');
-mobileMenu.classList.add('opacity-0', '-translate-y-full');
-mobileMenuButton.innerHTML = '<i class="ri-menu-line ri-2x"></i>';
-}
-const targetId = this.getAttribute('href');
-const targetElement = document.querySelector(targetId);
-if (targetElement) {
-window.scrollTo({
-top: targetElement.offsetTop - 80,
-behavior: 'smooth'
-});
-}
-});
-});
-// Sticky header
-const header = document.querySelector('nav');
-window.addEventListener('scroll', function() {
-if (window.scrollY > 50) {
-header.classList.add('shadow-md');
-} else {
-header.classList.remove('shadow-md');
-}
-});
-});
-</script>
+
 <script id="animation-script">
 document.addEventListener('DOMContentLoaded', function() {
 // Fade in elements on scroll
