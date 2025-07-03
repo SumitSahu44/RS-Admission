@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>B.Tech Courses for a Brighter Future</title>
+    <title>Diploma Courses for a Brighter Future</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -147,10 +147,10 @@
       <div class="container mx-auto px-4 py-20 md:py-32 relative">
         <div class="max-w-xl" data-aos="fade-right" data-aos-duration="1000">
           <h1 class="text-4xl md:text-5xl font-bold text-primary mb-6">
-            B.Tech Courses for a Brighter Future
+            Diploma Courses for a Brighter Future
           </h1>
           <p class="text-gray-700 text-lg mb-8">
-            Unlock your potential with our industry-recognized B.Tech programs
+            Unlock your potential with our industry-recognized diploma programs
             designed to equip you with practical skills and knowledge for
             today's competitive job market.
           </p>
@@ -181,11 +181,11 @@
       <div class="container mx-auto px-4">
         <div class="text-center mb-16" data-aos="fade-up">
           <h2 class="text-3xl font-bold text-primary mb-4">
-             B.Tech Courses Offered
+             Diploma Courses Offered
           </h2>
           <div class="w-24 h-1 bg-secondary mx-auto mb-6"></div>
           <p class="text-gray-700 max-w-2xl mx-auto">
-            Explore our comprehensive range of B.Tech programs designed to meet
+            Explore our comprehensive range of diploma programs designed to meet
             industry demands and launch successful careers.
           </p>
         </div>
@@ -199,7 +199,7 @@
             <div class="h-48 overflow-hidden">
               <img
                 src="https://readdy.ai/api/search-image?query=pharmacy%20laboratory%20with%20medications%2C%20prescriptions%2C%20and%20pharmaceutical%20equipment%20in%20a%20clean%2C%20professional%20environment%20with%20white%20coats%20and%20modern%20technology%20for%20pharmaceutical%20education&width=400&height=250&seq=course1&orientation=landscape"
-                alt="B.Tech in Pharmacy"
+                alt="Diploma in Pharmacy"
                 class="w-full h-full object-cover"
               />
             </div>
@@ -208,9 +208,8 @@
                 Mechanical Engineering
               </h3>
               <p class="text-gray-600 mb-4">
-               Mechanical Engineering is a diverse and dynamic branch of engineering that focuses on the design, development, and maintenance of mechanical systems. It combines principles of physics, mathematics, and materials science to create innovative solutions in areas such as energy, manufacturing, robotics, and transportation. Mechanical engineers analyze problems, design mechanical devices, and oversee the manufacturing process to ensure functionality and efficiency. Their work is essential in industries ranging from automotive and aerospace to power generation and biomedical devices. With a strong foundation in engineering fundamentals, mechanical engineers play a crucial role in advancing technology and improving the quality of everyday life.
-
- </p>
+                Mechanical Engineering is one of the oldest and broadest branches of engineering, focusing on the design, analysis, manufacturing, and maintenance of mechanical systems. It applies principles of physics, mathematics, and materials science to create and improve tools, machines, engines, and systems. Mechanical engineers work in industries such as automotive, aerospace, energy, manufacturing, and robotics. They solve real-world problems by developing efficient and innovative solutions. With a strong foundation in core engineering concepts, mechanical engineering offers vast career opportunities in both public and private sectors, including roles in design, production, research, and quality control. It is a career that powers innovation.
+              </p>
             
             </div>
           </div>
@@ -223,7 +222,7 @@
             <div class="h-48 overflow-hidden">
               <img
                 src="https://readdy.ai/api/search-image?query=medical%20laboratory%20with%20microscopes%2C%20test%20tubes%2C%20blood%20samples%2C%20and%20modern%20diagnostic%20equipment%20in%20a%20clean%20clinical%20setting%20with%20technicians%20in%20lab%20coats%20performing%20tests&width=400&height=250&seq=course2&orientation=landscape"
-                alt="B.Tech in Medical Laboratory Technology"
+                alt="Diploma in Medical Laboratory Technology"
                 class="w-full h-full object-cover"
               />
             </div>
@@ -232,9 +231,8 @@
                 Civil Engineering
               </h3>
               <p class="text-gray-600 mb-4">
-              Civil Engineering is one of the oldest and most essential branches of engineering, focused on the planning, design, construction, and maintenance of infrastructure and public works. This includes roads, bridges, buildings, dams, airports, water supply systems, and more. Civil engineers apply principles of physics, mathematics, and geology to solve real-world problems and ensure structures are safe, durable, and environmentally sustainable. Their work plays a vital role in shaping the modern world and supporting communities. With a blend of technical skill and creativity, civil engineers contribute to the development of resilient cities and essential infrastructure for societal growth and progress.
-
- </p>
+               Civil Engineering is a core branch of engineering focused on the planning, design, construction, and maintenance of infrastructure such as buildings, roads, bridges, dams, and water supply systems. It combines technical knowledge with creative problem-solving to develop safe, sustainable, and efficient public and private structures. Civil engineers play a vital role in shaping cities and improving the quality of life. They work in both government and private sectors, contributing to major development projects. With growing demand for smart infrastructure and urban planning, civil engineering offers diverse career opportunities in construction, project management, structural design, and environmental engineering.
+              </p>
               
             </div>
           </div>
@@ -247,7 +245,7 @@
             <div class="h-48 overflow-hidden">
               <img
                 src="https://readdy.ai/api/search-image?query=engineering%20workshop%20with%20students%20working%20on%20mechanical%20projects%2C%20CAD%20designs%2C%20electronic%20circuits%2C%20and%20engineering%20tools%20in%20a%20modern%20technical%20education%20facility%20with%20computers%20and%20machinery&width=400&height=250&seq=course3&orientation=landscape"
-                alt="B.Tech in Engineering"
+                alt="Diploma in Engineering"
                 class="w-full h-full object-cover"
               />
             </div>
@@ -257,8 +255,7 @@
 
               </h3>
               <p class="text-gray-600 mb-4">
-                Information Technology (IT) Engineering focuses on the design, development, implementation, and management of computer-based information systems. It combines principles of software engineering, networking, cybersecurity, and data management to solve complex technological problems. IT engineers work with both hardware and software to create systems that store, process, and transmit data efficiently and securely. They play a key role in developing applications, managing databases, maintaining networks, and ensuring cybersecurity. IT engineering is critical in today’s digital world, powering industries such as finance, healthcare, education, and entertainment. With constant innovation, IT engineers drive digital transformation and connect the world through technology.
-
+                Information Technology Engineering is a specialized branch of engineering that focuses on the design, development, and management of computer-based information systems. It blends computer science, networking, software development, and database management to create efficient digital solutions. IT engineers work on building and maintaining networks, securing data, developing software, and supporting systems that power businesses, education, healthcare, and more. This field plays a crucial role in today’s digital world, offering strong career prospects in IT services, cybersecurity, cloud computing, and software engineering. With ever-evolving technology, Information Technology Engineering remains one of the most sought-after and future-proof engineering disciplines.
 
 
               </p>
@@ -274,7 +271,7 @@
             <div class="h-48 overflow-hidden">
               <img
                 src="https://readdy.ai/api/search-image?query=nursing%20training%20environment%20with%20students%20practicing%20patient%20care%20on%20mannequins%2C%20monitoring%20vital%20signs%2C%20and%20learning%20medical%20procedures%20in%20a%20hospital-like%20setting%20with%20medical%20equipment%20and%20beds&width=400&height=250&seq=course4&orientation=landscape"
-                alt="B.Tech in Nursing"
+                alt="Diploma in Nursing"
                 class="w-full h-full object-cover"
               />
             </div>
@@ -284,7 +281,7 @@
 
               </h3>
               <p class="text-gray-600 mb-4">
-              Computer Science Engineering (CSE) is a discipline that combines the principles of computer science and engineering to design, develop, and optimize computer systems and software. It involves programming, algorithms, data structures, artificial intelligence, machine learning, databases, and computer networks. CSE engineers build everything from operating systems and mobile apps to cloud platforms and cybersecurity solutions. They solve complex computational problems and innovate technologies that power modern digital life. With applications across all industries, from healthcare to finance, computer science engineers are at the forefront of technological advancement, shaping the future through smart, efficient, and scalable computing solutions.
+               Diploma in Computer Science Engineering is a 3-year technical program that provides foundational knowledge in computer systems, programming, software development, and networking. It equips students with practical skills in languages like C, C++, Python, and tools used in web development, database management, and system operations. The course is designed to make students job-ready for roles such as junior software developer, IT support technician, or system operator. With increasing demand in the IT industry, diploma holders can either start their careers early or pursue higher education like B.Tech through lateral entry. It’s an ideal path for tech-savvy students after 10th.
 
 
               </p>
@@ -300,7 +297,7 @@
             <div class="h-48 overflow-hidden">
               <img
                 src="https://readdy.ai/api/search-image?query=hotel%20management%20training%20facility%20with%20reception%20desk%2C%20dining%20area%2C%20kitchen%2C%20and%20housekeeping%20section%20where%20students%20learn%20hospitality%20skills%20in%20a%20professional%20environment%20with%20instructors&width=400&height=250&seq=course5&orientation=landscape"
-                alt="B.Tech in Hotel Management"
+                alt="Diploma in Hotel Management"
                 class="w-full h-full object-cover"
               />
             </div>
@@ -310,8 +307,7 @@
 
               </h3>
               <p class="text-gray-600 mb-4">
-           Electrical and Electronics Engineering (EEE) is a core branch of engineering that deals with the study and application of electricity, electronics, and electromagnetism. It covers a wide range of topics including electric circuits, control systems, power generation and distribution, analog and digital electronics, embedded systems, and communication technologies. EEE engineers design and develop electrical equipment, electronic devices, and systems used in industries, homes, and modern infrastructure. Their work supports everything from power grids and renewable energy systems to smart devices and automation. With rapid advancements in technology, EEE plays a vital role in driving innovation and improving everyday life.
-
+               Diploma in Electrical & Electronics Engineering (EEE) is a 3-year course that provides foundational knowledge in electrical circuits, machines, power systems, and basic electronics. Students gain hands-on training in wiring, control panels, maintenance, and troubleshooting of electrical and electronic devices. This course prepares students for jobs in power plants, manufacturing units, electrical maintenance, automation, and public sector companies. Diploma holders can work as technicians, junior engineers, or electrical supervisors. They can also pursue higher studies like B.Tech through lateral entry. It’s an ideal program for students after 10th who are interested in a technical career in the electrical or electronics field.
 
 
               </p>
@@ -329,7 +325,136 @@
    
 
 
+    <!-- Testimonials Section -->
+    <section class="py-20 bg-white">
+      <div class="container mx-auto px-4">
+        <div class="text-center mb-16" data-aos="fade-up">
+          <h2 class="text-3xl font-bold text-primary mb-4">
+            What Our Students Say
+          </h2>
+          <div class="w-24 h-1 bg-secondary mx-auto mb-6"></div>
+          <p class="text-gray-700 max-w-2xl mx-auto">
+            Hear from our students about their experiences with our diploma
+            courses and services.
+          </p>
+        </div>
 
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div
+            class="bg-white p-6 rounded-lg shadow-md"
+            data-aos="fade-up"
+            data-aos-delay="100"
+          >
+            <div class="flex items-center mb-4">
+              <div class="text-secondary">
+                <i class="ri-star-fill"></i>
+                <i class="ri-star-fill"></i>
+                <i class="ri-star-fill"></i>
+                <i class="ri-star-fill"></i>
+                <i class="ri-star-fill"></i>
+              </div>
+            </div>
+            <p class="text-gray-600 mb-6">
+              "The Diploma in Pharmacy program completely transformed my career
+              prospects. The practical training and industry connections helped
+              me secure a position at a leading hospital pharmacy right after
+              graduation."
+            </p>
+            <div class="flex items-center">
+              <div
+                class="w-12 h-12 rounded-full bg-gray-200 overflow-hidden mr-4"
+              >
+                <img
+                  src="https://readdy.ai/api/search-image?query=professional%20headshot%20of%20a%20young%20Indian%20woman%20with%20a%20friendly%20smile%20wearing%20business%20casual%20attire%2C%20neutral%20background%2C%20professional%20portrait&width=100&height=100&seq=test1&orientation=squarish"
+                  alt="Priya Sharma"
+                  class="w-full h-full object-cover"
+                />
+              </div>
+              <div>
+                <h4 class="font-semibold text-gray-800">Priya Sharma</h4>
+                <p class="text-gray-500 text-sm">D.Pharm Graduate, 2024</p>
+              </div>
+            </div>
+          </div>
+
+          <div
+            class="bg-white p-6 rounded-lg shadow-md"
+            data-aos="fade-up"
+            data-aos-delay="200"
+          >
+            <div class="flex items-center mb-4">
+              <div class="text-secondary">
+                <i class="ri-star-fill"></i>
+                <i class="ri-star-fill"></i>
+                <i class="ri-star-fill"></i>
+                <i class="ri-star-fill"></i>
+                <i class="ri-star-fill"></i>
+              </div>
+            </div>
+            <p class="text-gray-600 mb-6">
+              "The counselors were incredibly helpful throughout the admission
+              process. They guided me to the perfect engineering diploma program
+              that matched my interests and career goals. Now I'm working at a
+              top manufacturing company."
+            </p>
+            <div class="flex items-center">
+              <div
+                class="w-12 h-12 rounded-full bg-gray-200 overflow-hidden mr-4"
+              >
+                <img
+                  src="https://readdy.ai/api/search-image?query=professional%20headshot%20of%20a%20young%20Indian%20man%20with%20short%20hair%20and%20a%20confident%20smile%20wearing%20business%20casual%20attire%2C%20neutral%20background%2C%20professional%20portrait&width=100&height=100&seq=test2&orientation=squarish"
+                  alt="Rahul Patel"
+                  class="w-full h-full object-cover"
+                />
+              </div>
+              <div>
+                <h4 class="font-semibold text-gray-800">Rahul Patel</h4>
+                <p class="text-gray-500 text-sm">
+                  Mechanical Engineering Diploma, 2023
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div
+            class="bg-white p-6 rounded-lg shadow-md"
+            data-aos="fade-up"
+            data-aos-delay="300"
+          >
+            <div class="flex items-center mb-4">
+              <div class="text-secondary">
+                <i class="ri-star-fill"></i>
+                <i class="ri-star-fill"></i>
+                <i class="ri-star-fill"></i>
+                <i class="ri-star-fill"></i>
+                <i class="ri-star-half-fill"></i>
+              </div>
+            </div>
+            <p class="text-gray-600 mb-6">
+              "As someone who couldn't afford a 4-year degree, the Diploma in
+              Computer Applications was perfect. The skills I learned were
+              directly applicable to my job, and I was able to start earning
+              much sooner than my friends in degree programs."
+            </p>
+            <div class="flex items-center">
+              <div
+                class="w-12 h-12 rounded-full bg-gray-200 overflow-hidden mr-4"
+              >
+                <img
+                  src="https://readdy.ai/api/search-image?query=professional%20headshot%20of%20a%20young%20South%20Indian%20woman%20with%20long%20dark%20hair%20and%20a%20friendly%20smile%20wearing%20business%20casual%20attire%2C%20neutral%20background%2C%20professional%20portrait&width=100&height=100&seq=test3&orientation=squarish"
+                  alt="Ananya Krishnan"
+                  class="w-full h-full object-cover"
+                />
+              </div>
+              <div>
+                <h4 class="font-semibold text-gray-800">Ananya Krishnan</h4>
+                <p class="text-gray-500 text-sm">DCA Graduate, 2024</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <!-- FAQ Section -->
     <section class="py-20 bg-gray-50">
@@ -340,7 +465,7 @@
           </h2>
           <div class="w-24 h-1 bg-secondary mx-auto mb-6"></div>
           <p class="text-gray-700 max-w-2xl mx-auto">
-            Find answers to common questions about our B.Tech courses and
+            Find answers to common questions about our diploma courses and
             admission process.
           </p>
         </div>
@@ -351,7 +476,7 @@
               class="faq-toggle w-full bg-white p-4 rounded-lg shadow-sm flex justify-between items-center"
             >
               <span class="font-medium text-gray-800"
-                >What is B.Tech?</span
+                >What is a diploma course?</span
               >
               <i
                 class="ri-arrow-down-s-line text-primary transition-transform"
@@ -359,9 +484,8 @@
             </button>
             <div class="faq-content bg-white px-4 pb-4 rounded-b-lg hidden">
               <p class="text-gray-600">
-              B.Tech (Bachelor of Technology) is a 4-year undergraduate engineering program that focuses on practical and theoretical knowledge in various fields like Computer Science, Mechanical, Civil, Electrical, Electronics, and more.
-
- </p>
+               A diploma is a short-term, skill-based technical course, typically 2–3 years long, designed to provide practical knowledge and job-ready skills in specific fields like engineering, healthcare, or IT.
+              </p>
             </div>
           </div>
 
@@ -370,8 +494,7 @@
               class="faq-toggle w-full bg-white p-4 rounded-lg shadow-sm flex justify-between items-center"
             >
               <span class="font-medium text-gray-800"
-                >What are the top specializations in B.Tech?
-</span
+                >Can I do B.Tech after a diploma</span
               >
               <i
                 class="ri-arrow-down-s-line text-primary transition-transform"
@@ -379,9 +502,8 @@
             </button>
             <div class="faq-content bg-white px-4 pb-4 rounded-b-lg hidden">
               <p class="text-gray-600">
-               Popular branches include Computer Science, Information Technology, Mechanical, Civil, Electronics & Communication, and Electrical Engineering.
-
- </p>
+               Yes, diploma holders can enter directly into the 2nd year of B.Tech through lateral entry.
+              </p>
             </div>
           </div>
 
@@ -390,7 +512,7 @@
               class="faq-toggle w-full bg-white p-4 rounded-lg shadow-sm flex justify-between items-center"
             >
               <span class="font-medium text-gray-800"
-                >Does B.Tech offer placement opportunities</span
+                >Does Diploma offer placement opportunities</span
               >
               <i
                 class="ri-arrow-down-s-line text-primary transition-transform"
@@ -398,9 +520,8 @@
             </button>
             <div class="faq-content bg-white px-4 pb-4 rounded-b-lg hidden">
               <p class="text-gray-600">
-              Yes! Many engineering colleges offer campus placements, and consultancies like TotalAdmission also assist with placement support and career guidance.
-
-  </p>
+                Yes! Many engineering colleges offer campus placements, and consultancies like R.S Admission also assist with placement support and career guidance.
+              </p>
             </div>
           </div>
 
@@ -417,7 +538,9 @@
             </button>
             <div class="faq-content bg-white px-4 pb-4 rounded-b-lg hidden">
               <p class="text-gray-600">
-               Absolutely! We offer career counseling and college selection support based on your marks, budget, and location preference.
+                Absolutely! We offer career counseling and college selection support based on your marks, budget, and location preference.
+
+
               </p>
             </div>
           </div>
@@ -435,8 +558,10 @@
             </button>
             <div class="faq-content bg-white px-4 pb-4 rounded-b-lg hidden">
               <p class="text-gray-600">
-             Yes! We provide complete guidance and document support for applying to the Bihar Student Credit Card Yojana.
-  </p>
+                Yes! We provide complete guidance and document support for applying to the Bihar Student Credit Card Yojana.
+
+
+              </p>
             </div>
           </div>
         </div>
@@ -450,7 +575,7 @@
           <h2 class="text-3xl font-bold text-primary mb-4">Get In Touch</h2>
           <div class="w-24 h-1 bg-secondary mx-auto mb-6"></div>
           <p class="text-gray-700 max-w-2xl mx-auto">
-            Have questions about our B.Tech courses? Our education counselors
+            Have questions about our diploma courses? Our education counselors
             are here to help you make the right choice for your future.
           </p>
         </div>
@@ -504,16 +629,16 @@
                   >
                     <option value="" selected disabled>Select a course</option>
                     <option value="dpharm">
-                      B.Tech in Pharmacy (D.Pharm)
+                      Diploma in Pharmacy (D.Pharm)
                     </option>
                     <option value="dmlt">
-                      B.Tech in Medical Laboratory Technology (DMLT)
+                      Diploma in Medical Laboratory Technology (DMLT)
                     </option>
-                    <option value="engineering">B.Tech in Engineering</option>
-                    <option value="nursing">B.Tech in Nursing (GNM)</option>
-                    <option value="hotel">B.Tech in Hotel Management</option>
+                    <option value="engineering">Diploma in Engineering</option>
+                    <option value="nursing">Diploma in Nursing (GNM)</option>
+                    <option value="hotel">Diploma in Hotel Management</option>
                     <option value="dca">
-                      B.Tech in Computer Applications (DCA)
+                      Diploma in Computer Applications (DCA)
                     </option>
                     <option value="other">Other</option>
                   </select>
@@ -589,7 +714,7 @@
                   <div>
                     <h4 class="font-medium text-gray-800 mb-1">Email Us</h4>
                     <p class="text-gray-600">
-                      admissions@B.Techcourses.com<br />info@B.Techcourses.com
+                      admissions@diplomacourses.com<br />info@diplomacourses.com
                     </p>
                   </div>
                 </div>
@@ -664,7 +789,7 @@
               >logo</a
             >
             <p class="text-gray-400 mb-6">
-              Providing expert guidance for B.Tech courses across India since
+              Providing expert guidance for diploma courses across India since
               2010. Your trusted partner for educational success.
             </p>
             <div class="flex space-x-4">
@@ -708,7 +833,7 @@
                 <a
                   href="#about"
                   class="text-gray-400 hover:text-white transition-colors"
-                  >About B.Techs</a
+                  >About Diplomas</a
                 >
               </li>
               <li>
@@ -749,42 +874,42 @@
                 <a
                   href="#"
                   class="text-gray-400 hover:text-white transition-colors"
-                  >B.Tech in Pharmacy</a
+                  >Diploma in Pharmacy</a
                 >
               </li>
               <li>
                 <a
                   href="#"
                   class="text-gray-400 hover:text-white transition-colors"
-                  >B.Tech in Engineering</a
+                  >Diploma in Engineering</a
                 >
               </li>
               <li>
                 <a
                   href="#"
                   class="text-gray-400 hover:text-white transition-colors"
-                  >B.Tech in Nursing</a
+                  >Diploma in Nursing</a
                 >
               </li>
               <li>
                 <a
                   href="#"
                   class="text-gray-400 hover:text-white transition-colors"
-                  >B.Tech in Medical Lab Technology</a
+                  >Diploma in Medical Lab Technology</a
                 >
               </li>
               <li>
                 <a
                   href="#"
                   class="text-gray-400 hover:text-white transition-colors"
-                  >B.Tech in Hotel Management</a
+                  >Diploma in Hotel Management</a
                 >
               </li>
               <li>
                 <a
                   href="#"
                   class="text-gray-400 hover:text-white transition-colors"
-                  >B.Tech in Computer Applications</a
+                  >Diploma in Computer Applications</a
                 >
               </li>
             </ul>
@@ -806,7 +931,7 @@
               </li>
               <li class="flex items-start">
                 <i class="ri-mail-line mr-3 mt-1"></i>
-                <span class="text-gray-400">admissions@B.Techcourses.com</span>
+                <span class="text-gray-400">admissions@diplomacourses.com</span>
               </li>
               <li class="flex items-start">
                 <i class="ri-time-line mr-3 mt-1"></i>
@@ -818,7 +943,7 @@
 
         <div class="pt-8 border-t border-gray-800 text-center">
           <p class="text-gray-500">
-            © 2025 B.Tech Courses. All rights reserved.
+            © 2025 Diploma Courses. All rights reserved.
           </p>
         </div>
       </div>

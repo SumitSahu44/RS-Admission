@@ -339,7 +339,7 @@ The General Nursing and Midwifery (GNM) course is a three-and-a-half-year diplom
               class="faq-toggle w-full bg-white p-4 rounded-lg shadow-sm flex justify-between items-center"
             >
               <span class="font-medium text-gray-800"
-                >Does Total Admission Solution provide placement assistance?</span
+                >Does RS Admission Zone provide placement assistance?</span
               >
               <i
                 class="ri-arrow-down-s-line text-primary transition-transform"

@@ -16,23 +16,23 @@
       
       <!-- Logo & Socials -->
       <div>
-        <a href="#" class="text-2xl font-['Pacifico'] text-white mb-6 inline-block">logo</a>
+        <a href="#" class="text-2xl font-['Pacifico'] text-white w-[100px] bg-white mb-6 inline-block">
+            <img src="./images/RS_admission.png" alt="">
+        </a>
         <p class="text-gray-400 mb-6">
           Providing expert guidance for diploma courses across India since 2010. Your trusted partner for educational success.
         </p>
         <div class="flex space-x-4">
-          <a href="#" class="text-gray-400 hover:text-white transition">
+          <a href="https://www.facebook.com/share/1ZCJopT97E/" class="text-gray-400 hover:text-white transition">
             <i class="ri-facebook-fill text-xl"></i>
           </a>
-          <a href="#" class="text-gray-400 hover:text-white transition">
+          <a href="https://www.instagram.com/rsadmissionzone?igsh=MXN3YjM3c2Y5NmZzag%3D%3D" class="text-gray-400 hover:text-white transition">
             <i class="ri-instagram-line text-xl"></i>
           </a>
-          <a href="#" class="text-gray-400 hover:text-white transition">
-            <i class="ri-twitter-x-line text-xl"></i>
+          <a href="https://youtube.com/@rsadmissionzone?si=STzxrHUnSXXKwWSJ" class="text-gray-400 hover:text-white transition">
+            <i class="ri-youtube-fill text-xl"></i>
           </a>
-          <a href="#" class="text-gray-400 hover:text-white transition">
-            <i class="ri-linkedin-fill text-xl"></i>
-          </a>
+          
         </div>
       </div>
 
@@ -51,15 +51,14 @@
 
       <!-- Popular Courses -->
       <div>
-        <h3 class="text-lg font-semibold mb-4">Popular Courses</h3>
+        <h3 class="text-lg font-semibold mb-4">Courses</h3>
         <ul class="space-y-2">
-          <li><a href="#" class="text-gray-400 hover:text-white transition">Diploma in Pharmacy</a></li>
-          <li><a href="#" class="text-gray-400 hover:text-white transition">Diploma in Engineering</a></li>
-          <li><a href="#" class="text-gray-400 hover:text-white transition">Diploma in Nursing</a></li>
-          <li><a href="#" class="text-gray-400 hover:text-white transition">Diploma in Medical Lab Technology</a></li>
-          <li><a href="#" class="text-gray-400 hover:text-white transition">Diploma in Hotel Management</a></li>
-          <li><a href="#" class="text-gray-400 hover:text-white transition">Diploma in Computer Applications</a></li>
-        </ul>
+          <li><a href="./diploma.html" class="text-gray-400 hover:text-white transition">Diploma</a></li>
+          <li><a href="./btech.html" class="text-gray-400 hover:text-white transition">B.Tech</a></li>
+          <li><a href="./bba-mba.html" class="text-gray-400 hover:text-white transition">BBA/MBA</a></li>
+          <li><a href="./bca-mca.html" class="text-gray-400 hover:text-white transition">BCA/MCA</a></li>
+          <li><a href="./nursing.html" class="text-gray-400 hover:text-white transition">Nursing</a></li>
+         </ul>
       </div>
 
       <!-- Contact Info -->
@@ -68,15 +67,16 @@
         <ul class="space-y-4 text-sm">
           <li class="flex items-start">
             <i class="ri-map-pin-line mr-3 mt-1 text-lg text-white"></i>
-            <span class="text-gray-400">123 Education Avenue, Knowledge Park<br/>New Delhi, 110001, India</span>
+            <span class="text-gray-400">
+402, Siddheshwar Palace 10, Mill Rd, <br/>Nawada, Ara, India 802301</span>
           </li>
           <li class="flex items-start">
             <i class="ri-phone-line mr-3 mt-1 text-lg text-white"></i>
-            <span class="text-gray-400">+91 98765 43210</span>
+            <span class="text-gray-400">+91 6201879696</span>
           </li>
           <li class="flex items-start">
             <i class="ri-mail-line mr-3 mt-1 text-lg text-white"></i>
-            <span class="text-gray-400">admissions@diplomacourses.com</span>
+            <span class="text-gray-400">rsadmissionzone@gmail.com</span>
           </li>
           <li class="flex items-start">
             <i class="ri-time-line mr-3 mt-1 text-lg text-white"></i>
